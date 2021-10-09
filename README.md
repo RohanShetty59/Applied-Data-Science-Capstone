@@ -1,3 +1,3 @@
 # Applied-Data-Science-Capstone
 Capstone Project-IBM
-Its a markdown filein this repository
+Its a markdown file in this repository
